@@ -1,18 +1,19 @@
-# tc.unclephil.net
+---
+title: tc.unclephil.net
+date: 2021/03/15
+---
 
-This is the non empty page of unclephil.github.io
+This is my personal Homepage
 
-And a fast replacement of tc.unclephil.net
+because I think that content is more important than form
 
-Because I love hosters who are killing business without any warnings
+> Sometimes IT Architect, Frequently Sysadmin, Every time User of good and, if possible, free software
 
-Be patient 
+## Contact me.
 
-## contact me.
-
-* Mail 1 : ph.koenig@koenig.ph 
-* Mail 2 : koenigphil@gmail.com
+* Mail 1 : mailto://ph.koenig@koenig.ph 
+* Mail 2 : mailto://koenigphil@gmail.com
 * Twitter : @unclephildotnet
-* Github : http://github.com/unclephil
-* Linkedin : http://linkedin.com/phkoenig
-* My CV : ask It by mail
+* Github : https://github.com/unclephil
+* Linkedin : https://linkedin.com/phkoenig
+* My CV : Ask It by mail
