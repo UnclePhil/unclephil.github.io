@@ -13,9 +13,9 @@ because I think that content is more important than form
 
 ## Contact me.
 
-* Mail 1 : (mailto://ph.koenig@koenig.ph) 
-* Mail 2 : (mailto://koenigphil@gmail.com)
+* Mail 1 : [ph.koenig@koenig.ph](mailto://ph.koenig@koenig.ph) 
+* Mail 2 : [koenigphil@gmail.com](mailto://koenigphil@gmail.com)
 * Twitter : @unclephildotnet
-* Github : (https://github.com/unclephil)
-* Linkedin : (https://linkedin.com/phkoenig)
+* Github : [github.com/unclephil](https://github.com/unclephil)
+* Linkedin : [linkedin.com/phkoenig](https://linkedin.com/phkoenig)
 * My CV : Ask It by mail
