@@ -1,9 +1,8 @@
 ---
-title: tc.unclephil.net
+page.title: tc.unclephil.net
 date: 2021/03/15
 title-heading: false
 ---
-# tc.unclephil.net
 
 This is a fast done personal Homepage
 
