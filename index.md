@@ -2,7 +2,7 @@
 title: tc.unclephil.net
 date: 2021/03/15
 ---
-# [Tc.UnclePhil.Net)[/]
+# (Tc.UnclePhil.Net)[/]
 
 This is a fast done personal Homepage
 
