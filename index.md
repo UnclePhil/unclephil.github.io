@@ -2,8 +2,9 @@
 title: tc.unclephil.net
 date: 2021/03/15
 ---
+#[Tc.UnclePhil.Net)[/]
 
-This is my personal Homepage
+This is a fast done personal Homepage
 
 because I think that content is more important than form
 
@@ -11,9 +12,9 @@ because I think that content is more important than form
 
 ## Contact me.
 
-* Mail 1 : mailto://ph.koenig@koenig.ph 
-* Mail 2 : mailto://koenigphil@gmail.com
+* Mail 1 : (mailto://ph.koenig@koenig.ph) 
+* Mail 2 : (mailto://koenigphil@gmail.com)
 * Twitter : @unclephildotnet
-* Github : https://github.com/unclephil
-* Linkedin : https://linkedin.com/phkoenig
+* Github : (https://github.com/unclephil)
+* Linkedin : (https://linkedin.com/phkoenig)
 * My CV : Ask It by mail
