@@ -9,7 +9,9 @@ This is a fast done personal Homepage
 
 because I think that content is more important than form
 
-> Sometimes IT Architect, Frequently Sysadmin, Every time User of good and, if possible, free software
+> Sometimes IT Architect, 
+> Frequently Sysadmin, 
+> Every time User of good and, if possible, free software
 
 ## Contact me.
 
